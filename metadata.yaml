@@ -1,0 +1,33 @@
+_repo: The-True-History-of-The-State-Prisoner-commonly-called-The-Iron-MaskExtracted-from-Documents-__42419
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42419-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dover, George Agar Ellis, Baron
+    aliases:
+    - Ellis, George Agar, Baron Dover
+    - Dover, Lord
+    birthdate: 1797
+    deathdate: 1833
+    gutenberg_agent_id: '41679'
+    url: http://www.gutenberg.org/2009/agents/41679
+description: ''
+gutenberg_issued: '2013-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42419'
+  lccn: '04003307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Mattioli, Ercole Antonio, conte, 1640-1703'
+- !lcsh 'Man in the Iron Mask'
+- !lcsh 'Prisoners -- France -- 17th century'
+title: "The True History of the State Prisoner, commonly called the Iron Mask\r\n\
+  Extracted from Documents in the French Archives"
+url: http://www.gutenberg.org/ebooks/42419
