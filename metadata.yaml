@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41679'
     url: http://www.gutenberg.org/2009/agents/41679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42419#The-True-History-of-The-State-Prisoner-commonly-called-The-Iron-MaskExtracted-from-Documents-_
 gutenberg_issued: '2013-03-27'
 gutenberg_type: Text
 identifiers:
